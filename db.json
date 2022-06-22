@@ -9,6 +9,9 @@
     { "id": 7,"title": "Рюкзак Louis Vuitton Discovery", "rating": 4.1, "price": 150000 },
     { "id": 8,"title": "Рюкзак Louis Vuitton Discovery", "rating": 4.1, "price": 150000 },
     { "id": 9,"title": "Рюкзак Louis Vuitton Discovery", "rating": 4.1, "price": 150000 },
-    { "id": 10,"title": "Рюкзак Louis Vuitton Discovery", "rating": 4.1, "price": 150000 },
-    ]
+    { "id": 10,"title": "Рюкзак Louis Vuitton Discovery", "rating": 4.1, "price": 150000 }
+    ],
+    "profile": {
+      "name": "Profile 1"
+    }
 }
