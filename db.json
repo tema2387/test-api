@@ -12,28 +12,28 @@
     { "id": 10, "title": "Рюкзак Louis Vuitton Discovery", "src": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA-racer--M20664_PM2_Front%20view.jpg", "rating": 4.5, "price": 140000 }
     ],
     "shirt": [
-    { "id": 1, "title": "Рубашка Louis Vuitton Discovery", "rating": 4.0, "price": 16000 },
-    { "id": 2, "title": "Рубашка Louis Vuitton Discovery", "rating": 3.9, "price": 14000 },
-    { "id": 3, "title": "Рубашка Louis Vuitton Discovery", "rating": 4.1, "price": 23000 },
-    { "id": 4, "title": "Рубашка Louis Vuitton Discovery", "rating": 4.1, "price": 45000 },
-    { "id": 5, "title": "Рубашка Louis Vuitton Discovery", "rating": 4.2, "price": 15000 },
-    { "id": 6, "title": "Рубашка Louis Vuitton Discovery", "rating": 4.4, "price": 13000 },
-    { "id": 7, "title": "Рубашка Louis Vuitton Discovery", "rating": 4.6, "price": 11000 },
-    { "id": 8, "title": "Рубашка Louis Vuitton Discovery", "rating": 3.2, "price": 8000 },
-    { "id": 9, "title": "Рубашка Louis Vuitton Discovery", "rating": 4.9, "price": 14000 },
-    { "id": 10, "title": "Рубашка Louis Vuitton Discovery", "rating": 4.4, "price": 24000 }
+    { "id": 1, "title": "Рубашка Louis Vuitton Discovery", "src": "https://www.ml-shop.online/image/cache/catalog/ML%20pictures/LV/11CH0804211/11CH0804211%201-800x800.jpeg", "rating": 4.0, "price": 16000 },
+    { "id": 2, "title": "Рубашка Louis Vuitton Discovery", "src": "https://www.ml-shop.online/image/cache/catalog/ML%20pictures/LV/11CH0804211/11CH0804211%201-800x800.jpeg", "rating": 3.9, "price": 14000 },
+    { "id": 3, "title": "Рубашка Louis Vuitton Discovery", "src": "https://www.ml-shop.online/image/cache/catalog/ML%20pictures/LV/11CH0804211/11CH0804211%201-800x800.jpeg", "rating": 4.1, "price": 23000 },
+    { "id": 4, "title": "Рубашка Louis Vuitton Discovery", "src": "https://www.ml-shop.online/image/cache/catalog/ML%20pictures/LV/11CH0804211/11CH0804211%201-800x800.jpeg", "rating": 4.1, "price": 45000 },
+    { "id": 5, "title": "Рубашка Louis Vuitton Discovery", "src": "https://www.ml-shop.online/image/cache/catalog/ML%20pictures/LV/11CH0804211/11CH0804211%201-800x800.jpeg", "rating": 4.2, "price": 15000 },
+    { "id": 6, "title": "Рубашка Louis Vuitton Discovery", "src": "https://www.ml-shop.online/image/cache/catalog/ML%20pictures/LV/11CH0804211/11CH0804211%201-800x800.jpeg", "rating": 4.4, "price": 13000 },
+    { "id": 7, "title": "Рубашка Louis Vuitton Discovery", "src": "https://www.ml-shop.online/image/cache/catalog/ML%20pictures/LV/11CH0804211/11CH0804211%201-800x800.jpeg", "rating": 4.6, "price": 11000 },
+    { "id": 8, "title": "Рубашка Louis Vuitton Discovery", "src": "https://www.ml-shop.online/image/cache/catalog/ML%20pictures/LV/11CH0804211/11CH0804211%201-800x800.jpeg", "rating": 3.2, "price": 8000 },
+    { "id": 9, "title": "Рубашка Louis Vuitton Discovery", "src": "https://www.ml-shop.online/image/cache/catalog/ML%20pictures/LV/11CH0804211/11CH0804211%201-800x800.jpeg", "rating": 4.9, "price": 14000 },
+    { "id": 10, "title": "Рубашка Louis Vuitton Discovery", "src": "https://www.ml-shop.online/image/cache/catalog/ML%20pictures/LV/11CH0804211/11CH0804211%201-800x800.jpeg", "rating": 4.4, "price": 24000 }
     ],
     "tshirt": [
-    { "id": 1, "title": "Футболка Louis Vuitton Discovery", "rating": 4.9, "price": 19000 },
-    { "id": 2, "title": "Футболка Louis Vuitton Discovery", "rating": 4.9, "price": 11000 },
-    { "id": 3, "title": "Футболка Louis Vuitton Discovery", "rating": 3.2, "price": 9000 },
-    { "id": 4, "title": "Футболка Louis Vuitton Discovery", "rating": 3.1, "price": 6000 },
-    { "id": 5, "title": "Футболка Louis Vuitton Discovery", "rating": 4.5, "price": 14000 },
-    { "id": 6, "title": "Футболка Louis Vuitton Discovery", "rating": 4.8, "price": 21000 },
-    { "id": 7, "title": "Футболка Louis Vuitton Discovery", "rating": 4.9, "price": 54000 },
-    { "id": 8, "title": "Футболка Louis Vuitton Discovery", "rating": 4.8, "price": 34000 },
-    { "id": 9, "title": "Футболка Louis Vuitton Discovery", "rating": 4.4, "price": 21000 },
-    { "id": 10, "title": "Футболка Louis Vuitton Discovery", "rating": 4.5, "price": 12000 }
+    { "id": 1, "title": "Футболка Louis Vuitton Discovery", "src": "https://lotsmarket.ru/upload/image_ready/product_resizer/10487c3753810eeb8a059053ddf943ce_2000_2000.jpeg", "rating": 4.9, "price": 19000 },
+    { "id": 2, "title": "Футболка Louis Vuitton Discovery", "src": "https://lotsmarket.ru/upload/image_ready/product_resizer/10487c3753810eeb8a059053ddf943ce_2000_2000.jpeg", "rating": 4.9, "price": 11000 },
+    { "id": 3, "title": "Футболка Louis Vuitton Discovery", "src": "https://lotsmarket.ru/upload/image_ready/product_resizer/10487c3753810eeb8a059053ddf943ce_2000_2000.jpeg", "rating": 3.2, "price": 9000 },
+    { "id": 4, "title": "Футболка Louis Vuitton Discovery", "src": "https://lotsmarket.ru/upload/image_ready/product_resizer/10487c3753810eeb8a059053ddf943ce_2000_2000.jpeg", "rating": 3.1, "price": 6000 },
+    { "id": 5, "title": "Футболка Louis Vuitton Discovery", "src": "https://lotsmarket.ru/upload/image_ready/product_resizer/10487c3753810eeb8a059053ddf943ce_2000_2000.jpeg", "rating": 4.5, "price": 14000 },
+    { "id": 6, "title": "Футболка Louis Vuitton Discovery", "src": "https://lotsmarket.ru/upload/image_ready/product_resizer/10487c3753810eeb8a059053ddf943ce_2000_2000.jpeg", "rating": 4.8, "price": 21000 },
+    { "id": 7, "title": "Футболка Louis Vuitton Discovery", "src": "https://lotsmarket.ru/upload/image_ready/product_resizer/10487c3753810eeb8a059053ddf943ce_2000_2000.jpeg", "rating": 4.9, "price": 54000 },
+    { "id": 8, "title": "Футболка Louis Vuitton Discovery", "src": "https://lotsmarket.ru/upload/image_ready/product_resizer/10487c3753810eeb8a059053ddf943ce_2000_2000.jpeg", "rating": 4.8, "price": 34000 },
+    { "id": 9, "title": "Футболка Louis Vuitton Discovery", "src": "https://lotsmarket.ru/upload/image_ready/product_resizer/10487c3753810eeb8a059053ddf943ce_2000_2000.jpeg", "rating": 4.4, "price": 21000 },
+    { "id": 10, "title": "Футболка Louis Vuitton Discovery", "src": "https://lotsmarket.ru/upload/image_ready/product_resizer/10487c3753810eeb8a059053ddf943ce_2000_2000.jpeg", "rating": 4.5, "price": 12000 }
     ],
     "profile": {
       "name": "Profile 1"
