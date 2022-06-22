@@ -1,5 +1,5 @@
 {
-  "Backpack": [
+  "backpack": [
     { "id": 1,"title": "Рюкзак Louis Vuitton Discovery", "rating": 4.1, "price": 150000 },
     { "id": 2,"title": "Рюкзак Louis Vuitton Discovery", "rating": 4.1, "price": 150000 },
     { "id": 3,"title": "Рюкзак Louis Vuitton Discovery", "rating": 4.1, "price": 150000 },
